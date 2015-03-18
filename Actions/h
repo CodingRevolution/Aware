@@ -1,4 +1,4 @@
 {
-	hi = "oneWordCommand(\"hello\")",
-	hello = "print(\"Hey biatch\")",
+	hi = "respond(\"Greeting\")",
+	hello = "respond(\"Greeting\")",
 }
