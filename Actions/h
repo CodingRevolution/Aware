@@ -1,3 +1,4 @@
 {
 	hi = "redirect(hello)"
+	hello = "print(\"Hey biatch\")"
 }
