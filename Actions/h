@@ -1,4 +1,4 @@
 {
-	hi = "redirect(hello)"
-	hello = "print(\"Hey biatch\")"
+	hi = "redirect(hello)",
+	hello = "print(\"Hey biatch\")",
 }
