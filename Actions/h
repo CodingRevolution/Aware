@@ -1,4 +1,4 @@
 {
-	hi = "respond(\"Greeting\")",
-	hello = "respond(\"Greeting\")",
+	hi = "respond(\"Greetings\")",
+	hello = "respond(\"Greetings\")",
 }
