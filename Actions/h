@@ -1,4 +1,4 @@
 {
-	hi = "redirect(\"hello\")",
+	hi = "oneWordCommand(\"hello\")",
 	hello = "print(\"Hey biatch\")",
 }
